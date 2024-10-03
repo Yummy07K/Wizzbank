@@ -1,0 +1,7 @@
+Username: Barm111, Withdrawn: R20010.00
+Username: andrea, Withdrawn: R200.00
+Username: andrea, Transferred: R100.00 to Barm111
+Username: Barm111, Received: R100.00 from andrea
+Username: Abubakr123, Withdrawn: R80.00
+Username: Abubakr123, Transferred: R10.00 to andrea
+Username: andrea, Received: R10.00 from Abubakr123
